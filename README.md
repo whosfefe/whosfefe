@@ -1,7 +1,7 @@
 ## Olá, eu sou a Fernanda! 👩🏻‍💻
 
-🎓 Estudante de Desenvolvimento de Sistemas | ETEC Praia Grande;<br>
-📍 São Vicente, SP;<br>
+🎓 Estudante de Desenvolvimento de Sistemas | ETEC Praia Grande<br>
+📍 São Vicente, SP<br>
 💻 Explorando o mundo da programação, tecnologia e desenvolvimento web.
 
 Este é o meu espaço para transformar ideias em código, aprender na prática e evoluir a cada projeto.
