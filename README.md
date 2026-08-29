@@ -21,5 +21,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/fernanda-vieira-palma-de-paula-55944918a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/fernanda-vieira-palma-de-paula-55944918a/](https://www.linkedin.com/in/whosfefe/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+  <a href="mailto:akafernandavieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
+
